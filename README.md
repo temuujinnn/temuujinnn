@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Temuujin
-- Flutter/React js/Next JS/ Web 3.0
+- Flutter/Reactjs/Next JS/ Web 3.0/Solidity
 
 <!---
 temuujinnn/temuujinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
